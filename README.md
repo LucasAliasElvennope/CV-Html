@@ -39,3 +39,11 @@ Cela fait partie de ma **formation** et doit respecter des règles précises en 
 - ✅ **Versioning Git clair et régulier**
 - ✅ **Aucun CSS** intégré ou lié
 - ✅ Chaque bloc de code est **compréhensible et explicable**
+
+---
+
+## 🛠️ Technologies utilisées
+
+- ✅ **HTML5 uniquement**  
+- ❌ **Aucun fichier CSS**  
+- 📄 **Boilerplate HTML** de base
