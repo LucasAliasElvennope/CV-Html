@@ -31,3 +31,8 @@ Cela fait partie de ma **formation** et doit respecter des règles précises en 
   - **Centres d’intérêts / Divers**
 
 ---
+
+## ✅ Bonnes pratiques respectées
+
+- ✅ Utilisation de **balises sémantiques** (`header`, `main`, `section`, `article`, `footer`, etc.)
+- ✅ **Aucune erreur** au **validator W3C**
