@@ -3,7 +3,7 @@
 ## 📚 Table des matières
 
 - [📄 Présentation](#-présentation)
-- [🎯 Objectifs pédagogiques](#-objectifs-pédagogiques)
+- [📌 Objectifs pédagogiques](#-objectifs-pédagogiques)
 - [✅ Bonnes pratiques respectées](#-bonnes-pratiques-respectées)
 - [🛠️ Technologies utilisées](#️-technologies-utilisées)
 - [📐 Wireframes](#-wireframes)
@@ -48,4 +48,8 @@ Cela fait partie de ma **formation** et doit respecter des règles précises en 
 - ❌ **Aucun fichier CSS**  
 - 📄 **Boilerplate HTML** de base 
 
-## 📐 Wireframes
+## 📐 Wireframes 
+
+Wireframes réalisés en version **responsive** (mobile & desktop).  
+👉 **[https://www.figma.com/design/z4NNoJ6gBnZ21hcn19vIlK/Cv-html?node-id=0-1&t=XBZJWbSGRIarKXnv-1]**
+
