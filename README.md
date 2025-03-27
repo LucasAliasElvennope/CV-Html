@@ -46,4 +46,6 @@ Cela fait partie de ma **formation** et doit respecter des règles précises en 
 
 - ✅ **HTML5 uniquement**  
 - ❌ **Aucun fichier CSS**  
-- 📄 **Boilerplate HTML** de base
+- 📄 **Boilerplate HTML** de base 
+
+## 📐 Wireframes
