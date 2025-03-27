@@ -23,3 +23,11 @@ Cela fait partie de ma **formation** et doit respecter des règles précises en 
 
 - Structurer une page web avec du **HTML sémantique** (sans `div` inutiles)
 - Traduire un **wireframe validé** en structure HTML
+- Mettre en place un CV comportant les rubriques suivantes :
+  - **Informations personnelles**
+  - **Titre du CV** (ex : *Développeur Web Junior*)
+  - **Expériences professionnelles**
+  - **Formations**
+  - **Centres d’intérêts / Divers**
+
+---
