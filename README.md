@@ -8,7 +8,6 @@
 - [🛠️ Technologies utilisées](#️-technologies-utilisées)
 - [📐 Wireframes](#-wireframes)
 - [🚀 Mise en ligne](#-mise-en-ligne)
-- [📁 Arborescence du projet](#-arborescence-du-projet) 
 
 ---
 
@@ -51,5 +50,12 @@ Cela fait partie de ma **formation** et doit respecter des règles précises en 
 ## 📐 Wireframes 
 
 Wireframes réalisés en version **responsive** (mobile & desktop).  
-👉 **[https://www.figma.com/design/z4NNoJ6gBnZ21hcn19vIlK/Cv-html?node-id=0-1&t=XBZJWbSGRIarKXnv-1]**
+👉 **[https://www.figma.com/design/z4NNoJ6gBnZ21hcn19vIlK/Cv-html?node-id=0-1&t=XBZJWbSGRIarKXnv-1]** 
+
+---
+
+## Mise en ligne 
+
+Le projet est accessible via **Github Pages** :
+🔗 **[https://lucasaliaselvennope.github.io/CV-Html/]**
 
