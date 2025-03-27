@@ -56,6 +56,6 @@ Wireframes réalisés en version **responsive** (mobile & desktop).
 
 ## Mise en ligne 
 
-Le projet est accessible via **Github Pages** :
+Le projet est accessible via **Github Pages**
 🔗 **[https://lucasaliaselvennope.github.io/CV-Html/]**
 
