@@ -36,3 +36,6 @@ Cela fait partie de ma **formation** et doit respecter des règles précises en 
 
 - ✅ Utilisation de **balises sémantiques** (`header`, `main`, `section`, `article`, `footer`, etc.)
 - ✅ **Aucune erreur** au **validator W3C**
+- ✅ **Versioning Git clair et régulier**
+- ✅ **Aucun CSS** intégré ou lié
+- ✅ Chaque bloc de code est **compréhensible et explicable**
